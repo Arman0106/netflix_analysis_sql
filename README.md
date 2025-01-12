@@ -1,4 +1,3 @@
-# netflix_analysis_sql
 # Netflix Movies and TV Shows Data Analysis using SQL
 
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
@@ -343,8 +342,5 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 ## Author - Mohd Arman Mansuri
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, feel free to get in touch!
-
-guthub = https://github.com/Arman0106/netflix_analysis_sql/new/main?readme=1
-linkedin = www.linkedin.com/in/arman-mansuri-0a731a173
 
 Thank you for your support, and I look forward to connecting with you!
